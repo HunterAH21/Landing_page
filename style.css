@@ -1,0 +1,43 @@
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.content img{
+    height: 200px;
+    width: 200px;
+}
+.content {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+p{
+    position: absolute;
+    top: 60px;
+    left: 20px;
+}
+.img1{
+    background-image: url(img/object.jpg);
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+}
+.img2{
+    background-image: url(img/bags.jpg);
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+}
+.img3{
+    background-image: url(img/shoe.jpg);
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+}
+h3{
+    text-align: center;
+    color: rgb(59, 89, 107);
+}
